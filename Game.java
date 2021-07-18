@@ -60,7 +60,7 @@ class DrawingPanel extends JPanel implements Runnable
     private static int []xPoly = {x0,x1,x2};  //array of x coordinates for polygon
     private static int []yPoly = {y0,y1,y2};  //array of y coordinates for polygon
     
-    private static int arraySize = 100; //size of the array
+    private static int arraySize = 150; //size of the array
     private static int []xArr = new int[arraySize];  //array to store x points
     private static int []yArr = new int[arraySize];  //array to store y points
     
